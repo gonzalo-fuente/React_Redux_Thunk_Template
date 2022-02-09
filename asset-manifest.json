@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Redux_Thunk_Template/static/css/main.b1819e40.css",
+    "main.js": "/React_Redux_Thunk_Template/static/js/main.5acefd6e.js",
+    "static/media/react-logo.png": "/React_Redux_Thunk_Template/static/media/react-logo.a544fd8cf64d82898e91.png",
+    "static/media/redux-logo.png": "/React_Redux_Thunk_Template/static/media/redux-logo.b3b939c66aecf7d53967.png",
+    "index.html": "/React_Redux_Thunk_Template/index.html",
+    "main.b1819e40.css.map": "/React_Redux_Thunk_Template/static/css/main.b1819e40.css.map",
+    "main.5acefd6e.js.map": "/React_Redux_Thunk_Template/static/js/main.5acefd6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1819e40.css",
+    "static/js/main.5acefd6e.js"
+  ]
+}
